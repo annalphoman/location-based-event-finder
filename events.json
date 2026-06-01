@@ -1,0 +1,97 @@
+[
+  {
+    "location": {
+      "address": "central junction",
+      "lat": 9.670361365711498,
+      "lng": 76.55752372636925
+    },
+    "_id": "69a91d2279742ba3bf5a3050",
+    "title": "abc",
+    "description": "dsushdu8ahua",
+    "date": "2026-03-16T00:00:00.000Z",
+    "eventType": "Conference",
+    "organizer": {
+      "_id": "69a89f27fd93cd4b2731bc81",
+      "name": "NASA",
+      "email": "nasa@123.com"
+    },
+    "regLink": "https://event.com",
+    "interestedUsers": [
+      "69a91b3279742ba3bf5a3043",
+      "69a91b3279742ba3bf5a3043"
+    ],
+    "createdAt": "2026-03-05T06:05:22.875Z",
+    "updatedAt": "2026-03-05T06:24:49.106Z",
+    "__v": 2
+  },
+  {
+    "location": {
+      "address": "house of basi",
+      "lat": 9.598240885413576,
+      "lng": 76.50326263898025
+    },
+    "_id": "69af5d649398c06c5e902668",
+    "title": "bas6th",
+    "description": "house of bas6th",
+    "date": "2020-07-30T00:00:00.000Z",
+    "eventType": "Conference",
+    "organizer": {
+      "_id": "69a89f27fd93cd4b2731bc81",
+      "name": "NASA",
+      "email": "nasa@123.com"
+    },
+    "regLink": "",
+    "interestedUsers": [
+      "69a89f27fd93cd4b2731bc81"
+    ],
+    "createdAt": "2026-03-09T23:53:08.671Z",
+    "updatedAt": "2026-03-09T23:53:41.399Z",
+    "__v": 1
+  },
+  {
+    "location": {
+      "address": "varaals house",
+      "lat": 9.771296891454874,
+      "lng": 76.42768871777662
+    },
+    "_id": "69af61ec7b7b7f522f4d919b",
+    "title": "varaal house",
+    "description": "vadayaar pool party",
+    "date": "2019-09-22T00:00:00.000Z",
+    "eventType": "Sports",
+    "organizer": {
+      "_id": "69a89f27fd93cd4b2731bc81",
+      "name": "NASA",
+      "email": "nasa@123.com"
+    },
+    "regLink": "",
+    "interestedUsers": [
+      "69a89f27fd93cd4b2731bc81"
+    ],
+    "createdAt": "2026-03-10T00:12:28.875Z",
+    "updatedAt": "2026-03-10T00:12:57.643Z",
+    "__v": 1
+  },
+  {
+    "location": {
+      "address": "joc house",
+      "lat": 9.673538693942266,
+      "lng": 76.84337210648665
+    },
+    "_id": "69af63107b7b7f522f4d91ae",
+    "title": "joC house",
+    "description": "poocha dance (4-11 pm)",
+    "date": "2027-01-22T00:00:00.000Z",
+    "eventType": "Music & Arts",
+    "organizer": {
+      "_id": "69a89f27fd93cd4b2731bc81",
+      "name": "NASA",
+      "email": "nasa@123.com"
+    },
+    "regLink": "",
+    "interestedUsers": [],
+    "createdAt": "2026-03-10T00:17:20.808Z",
+    "updatedAt": "2026-03-10T00:17:20.808Z",
+    "__v": 0
+  }
+]
