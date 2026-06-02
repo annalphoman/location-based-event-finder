@@ -1,4 +1,6 @@
 # Location-Based Event Finder & Management Platform
+## Live Demo
+https://eventsphere-nu.vercel.app/
 
 ## Overview
 A full-stack MERN application for discovering and managing community events with location-based filtering and role-based access control.
