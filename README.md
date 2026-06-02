@@ -18,5 +18,16 @@ A full-stack MERN application for discovering and managing community events with
 - MongoDB
 - JavaScript
 
+## Screenshots
+
+### Event Discovery Map
+![Event Discovery Map](event-discovery-map.jpeg)
+
+### User Registration
+![User Registration](user-registration.jpeg)
+
+### Post New Event
+![Post New Event](post-new-event.jpeg)
+
 ## Author
 Anna Alphonse Mani
