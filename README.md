@@ -21,13 +21,13 @@ A full-stack MERN application for discovering and managing community events with
 ## Screenshots
 
 ### Event Discovery Map
-![Event Discovery Map](event-discovery-map.jpeg)
+![Event Discovery Map](Event%20Discovery%20Map.jpeg)
 
 ### User Registration
-![User Registration](user-registration.jpeg)
+![User Registration](User%20Registration.jpeg)
 
 ### Post New Event
-![Post New Event](post-new-event.jpeg)
+![Post New Event](Post%20New%20Event.jpeg)
 
 ## Author
 Anna Alphonse Mani
